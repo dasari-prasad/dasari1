@@ -1,0 +1,2 @@
+The "rm" command helps you to remove files from a Git repository. It allows you to not only delete a file from the repository, but also - if you wish - from the filesystem. Deleting a file from the filesystem can of course easily be done in many other applications, e.g. a text editor, IDE or file browser.
+
