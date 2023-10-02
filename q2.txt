@@ -1,0 +1,2 @@
+The name of a file (or multiple files) you want to remove. Naming the file you want to remove can be as simple as providing the filename / path to a single file. But you can also provide multiple filenames (delimited by spaces) or even a wildcard pattern (e.g. test.*).
+
